@@ -6,7 +6,7 @@ Application loads equirectangular image and opens it as panoramic view.
 
 User can navigate with mouse controls.
 
-User cam create small sphere on image by duble-clicking on a mouse button.
+User can create small sphere on image by duble-clicking on a mouse button.
 
 # Project launch
 
